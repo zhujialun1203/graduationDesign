@@ -10,7 +10,7 @@
     </parent>
     <groupId>fun.zjlzjl</groupId>
     <artifactId>common-service-facade</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>common-service-facade</name>
     <description>Demo project for Spring Boot</description>

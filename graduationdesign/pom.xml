@@ -17,6 +17,7 @@
     <modules>
         <module>common-service-facade</module>
         <module>service</module>
+        <module>controller</module>
     </modules>
 
     <dependencies>

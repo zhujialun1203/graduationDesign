@@ -7,7 +7,7 @@ import fun.zjlzjl.commonservicefacade.service.test2;
 public class test2Impl implements test2 {
 
     @Override
-    public void tt() {
-        System.out.println("tt");
+    public String tt() {
+        return "tt";
     }
 }
